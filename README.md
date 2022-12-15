@@ -1,6 +1,6 @@
 ### 안녕하세요, 멋쟁이 개발자가 되고 싶은 최수빈입니다 😎
 Hello, I'm Soobin Choi :) <br>
-I want to be a cool back-end developer.
+I want to be a cool back-end developer.<br>
 <br>
 제가 사용한 언어는 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
